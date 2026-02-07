@@ -67,4 +67,10 @@ Insight:
 
 	- Confirms that regime separation is dominated by leading components.
 	- Highlights similarities and contrasts among identified regimes.
+	
+## Key Findings
+	•	Market regimes can be effectively identified by clustering dates in PCA-reduced return space.
+	•	The first few principal components dominate regime behavior.
+	•	The market exhibits regime persistence with regular transitions over time.
+	•	PCA + K-means offers a simple yet interpretable framework for market regime analysis.
  
