@@ -75,8 +75,8 @@ Insight:
 	•	PCA + K-means offers a simple yet interpretable framework for market regime analysis.
 
 ## Repository Structure 
-.
-```├── notebooks/ ```
+```.
+├── notebooks/ 
 │   └── market_regime_clustering.ipynb
 ├── figures/
 │   ├── explained_variance.png
@@ -86,7 +86,7 @@ Insight:
 │   ├── mean_return_profiles.png
 │   └── cluster_centers_heatmap.png
 ├── README.md
-
+```
 ## Notes & Possible Extensions
 	•	Incorporate alternative clustering methods (e.g., hierarchical clustering).
 	•	Analyze regime transition probabilities.
