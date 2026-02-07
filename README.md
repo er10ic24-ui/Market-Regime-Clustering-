@@ -21,7 +21,7 @@ The project emphasizes interpretability, combining clustering results with multi
 
 Visualization:
 
-	•	Explained variance ratio for each principal component
+	- Explained variance ratio for each principal component
 
 ### 2. Choosing the Number of Clusters
 	•	The Elbow method is used to select the number of clusters.
