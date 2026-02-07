@@ -48,7 +48,6 @@ Visualization:
 Insight:
 
 	- No single regime dominates the entire period.
-	
 	- Some clusters persist as baseline regimes, while others appear intermittently, indicating transient market conditions.
 
 ### 2. Cluster Mean Return Profiles
