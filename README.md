@@ -76,7 +76,7 @@ Insight:
 
 ## Repository Structure 
 .
-├── notebooks/```
+```├── notebooks/ ```
 │   └── market_regime_clustering.ipynb
 ├── figures/
 │   ├── explained_variance.png
