@@ -43,8 +43,9 @@ Visualization:
 	•	This visualization shows how market regimes evolve and transition over time.
 
 Insight:
-	\dot No single regime dominates the entire period.
-	* Some clusters persist as baseline regimes, while others appear intermittently, indicating transient market conditions.
+	- No single regime dominates the entire period.
+	
+	- Some clusters persist as baseline regimes, while others appear intermittently, indicating transient market conditions.
 
 ### 2. Cluster Mean Return Profiles
 	•	For each cluster, the average return across the 10 principal components is computed.
