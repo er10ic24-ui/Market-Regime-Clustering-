@@ -73,4 +73,17 @@ Insight:
 	•	The first few principal components dominate regime behavior.
 	•	The market exhibits regime persistence with regular transitions over time.
 	•	PCA + K-means offers a simple yet interpretable framework for market regime analysis.
+
+## Repository Structure 
+.
+├── notebooks/
+│   └── market_regime_clustering.ipynb
+├── figures/
+│   ├── explained_variance.png
+│   ├── elbow_method.png
+│   ├── kmeans_2d_visualization.png
+│   ├── cluster_timeline.png
+│   ├── mean_return_profiles.png
+│   └── cluster_centers_heatmap.png
+├── README.md
  
